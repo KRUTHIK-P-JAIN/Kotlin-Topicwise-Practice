@@ -1,6 +1,7 @@
 # Kotlin Topicwise Practice
 
-A structured Kotlin learning repository with hands-on problem-solving, organized by topic. Each topic includes problems that strengthen your understanding with practical examples.
+A structured Kotlin learning repository with hands-on problem-solving, organized by topic.    
+Each topic includes problems that strengthen your understanding with practical examples.
 
 ---
 
@@ -8,7 +9,7 @@ A structured Kotlin learning repository with hands-on problem-solving, organized
 app/src/main/java/com/example/codeeditor/kotlin-topicwise-practice 
 Each folder represents a Kotlin topic. Inside, you'll find `.kt` files solving small but focused problems for that concept.
 
-kotlin-topicwise-practice/
+kotlin-topicwise-practice/    
 ├── 01-variables-and-types/
 
 ---
