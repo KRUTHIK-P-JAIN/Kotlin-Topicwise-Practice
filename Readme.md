@@ -6,7 +6,7 @@ Each topic includes problems that strengthen your understanding with practical e
 ---
 
 ## 📁 Structure
-app/src/main/java/com/example/codeeditor/kotlin-topicwise-practice 
+app/src/main/java/com/example/codeeditor/kotlin-topicwise-practice      
 Each folder represents a Kotlin topic. Inside, you'll find `.kt` files solving small but focused problems for that concept.
 
 kotlin-topicwise-practice/    
