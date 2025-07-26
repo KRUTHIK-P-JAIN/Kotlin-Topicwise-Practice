@@ -6,6 +6,7 @@ A structured Kotlin learning repository with hands-on problem-solving, organized
 
 ## 📁 Structure
 app/src/main/java/com/example/codeeditor/kotlin-topicwise-practice 
+
 Each folder represents a Kotlin topic. Inside, you'll find `.kt` files solving small but focused problems for that concept.
 
 kotlin-topicwise-practice/
