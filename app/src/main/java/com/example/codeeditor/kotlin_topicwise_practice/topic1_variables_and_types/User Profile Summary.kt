@@ -1,4 +1,4 @@
-package com.example.codeeditor.`kotlin-topicwise-practice`.`01-variables-and-types`
+package com.example.codeeditor.kotlin_topicwise_practice.topic1_variables_and_types
 
 /**
  * Problem Statement:
